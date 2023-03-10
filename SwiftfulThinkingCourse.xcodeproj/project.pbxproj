@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		042F156F29BB3E7B00586456 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F156E29BB3E7B00586456 /* ShapesBootcamp.swift */; };
 		045BDC7829B8C86A00045C0B /* SwiftfulThinkingCourseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045BDC7729B8C86A00045C0B /* SwiftfulThinkingCourseApp.swift */; };
 		045BDC7A29B8C86A00045C0B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045BDC7929B8C86A00045C0B /* ContentView.swift */; };
 		045BDC7C29B8C87300045C0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 045BDC7B29B8C87300045C0B /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		042F156E29BB3E7B00586456 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		045BDC7429B8C86A00045C0B /* SwiftfulThinkingCourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingCourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		045BDC7729B8C86A00045C0B /* SwiftfulThinkingCourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingCourseApp.swift; sourceTree = "<group>"; };
 		045BDC7929B8C86A00045C0B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				04E9D35629B9FD46008B3ACA /* TextBootcamp.swift */,
+				042F156E29BB3E7B00586456 /* ShapesBootcamp.swift */,
 			);
 			path = BeginnerLevel;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				042F156F29BB3E7B00586456 /* ShapesBootcamp.swift in Sources */,
 				045BDC7A29B8C86A00045C0B /* ContentView.swift in Sources */,
 				04E9D35729B9FD46008B3ACA /* TextBootcamp.swift in Sources */,
 				045BDC7829B8C86A00045C0B /* SwiftfulThinkingCourseApp.swift in Sources */,
